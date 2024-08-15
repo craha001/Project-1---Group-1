@@ -8,7 +8,8 @@ Team Members:
   
 Assignment Task
 
-We will analyze graduation-related data to determine whether the college is worth the investment. The analysis will help students or job consulting agencies to value the highest return on investment, average salary per major, ethnic, and gender distributions, and so on. 
+We will analyze graduation-related data to determine whether the college is worth the investment. The analysis will help students or job consulting agencies to value the highest return on investment, average salary per major, ethnic, and gender distributions, and so on.
+In order to run our code please download our resources folder and our Jupyter Notebook "College Analysis"
 
 Instructions
 
