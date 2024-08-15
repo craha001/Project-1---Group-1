@@ -18,7 +18,9 @@ Instructions
   
 3.	We also observed some trends, such as a significant decline in graduates during periods of economic recession or financial crises. This effect is particularly pronounced among white graduates, which may be related to consumer habits. Additionally, the most popular majors with a high number of graduates are not necessarily those with the highest average salaries. On the contrary, graduates from science-related fields, who tend to be fewer in number, generally have higher average salaries compared to those in the humanities.
 
+4. Finally, we presented the overall education costs from 1995 to 2015, separately showing the cost data for public and private institutions. Additionally, we also focused on the correlation and regression related to salaries for various majors.
+
 Declaration
 
-During the project, we used some syntax, formulas, and functions. Some of them are from class, and some of them are from a web search. When we made an error or had no idea what was going on, we discussed or chatted with ChatGPT and got some suggestions or debug for coding. We figured the problem out first and understood it, and then typed the code down. From this view, my work might have some similarities with others.
+During the project, we used some syntax, formulas, and functions. Some of them are from class, and some of them are from a web search. When we made an error or had no idea what was going on, we discussed or chatted with ChatGPT and got some suggestions or debug for coding. We figured the problem out first and understood it, and then typed the code down. From this view, our work might have some similarities with others.
 
