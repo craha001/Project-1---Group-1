@@ -20,5 +20,5 @@ Instructions
 
 Declaration
 
-During the project, we used some syntax, formulas, and functions. Some of them are from class, and some of them are from a web search. When we made an error or had no idea what was going on, we discussed or chatted with ChatGPT and got some suggestions or debug for coding. We figured the problem out first and understood it, and then typed the code down. From this view, my work might have some similarities with others.
+During the project, we used some syntax, formulas, and functions. Some of them are from class, and some of them are from a web search. When we made an error or had no idea what was going on, we discussed or chatted with ChatGPT and got some suggestions or debug for coding. We figured the problem out first and understood it, and then typed the code down. From this view, our work might have some similarities with others.
 
